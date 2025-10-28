@@ -61,14 +61,30 @@ Total_Problema =  Gravidade * Urgência * Tendência
 - [Course's presentation](https://cdn3.gnarususercontent.com.br/3323-tomada-decisao/Apostila+-+Tomada+de+decis%C3%A3o_+pensar%2C+analisar+e+agir+-+Slides.pdf)
 
 DECIDA:
-- Defina suas prioridades
-- Extraia e compile os dados
-- C
-- I
-- D
-- A
+- *D*efina suas prioridades
+- *E*xtraia e compile os dados
+- *C*onsidere as alternativas
+- *I*dentifique as consequências
+- *D*ecida para comunicar
+- *A*valiar para ajustar
 
 Dicas:
 - Distânciamente emocional para tomada de decisão
 - Pensamento inverso
 
+Regra 10-10-10: Quais serão as consequências após a tomada da decisão, considerando
+- *10 Minutos*: Questione como se sentirá logo após tomar a decisão. Isto permite avaliar reações emocionais imediatas e possíveis arrependimentos momentâneos.
+- *10 Meses*: Reflita sobre como a decisão afetará sua vida daqui a 10 meses. Isso direciona o foco ao médio prazo, permitindo ponderar se a decisão acarretará benefícios ou dificuldades imediatas.
+- *10 Anos*: Projete-se 10 anos adiante e imagine como a decisão reverberará em sua vida nesse período. Essa perspectiva de longo prazo pode revelar consequências não evidentes à primeira vista.
+
+Expansão da técnica 5W2H -> 5W3H1S:
+
+- Why (Razão e Propósito)
+- What (O quê será realizado)
+- Who (Quem está envolvido - Quais são os participantes e equipes)
+- Where (Localização)
+- When (Cronograma e Prazos)
+- How (Abordagem e metodologia)
+- How much (custo financeiro)
+- How many (quantidade e estensão)
+- Show (apresentação dos resultados)
