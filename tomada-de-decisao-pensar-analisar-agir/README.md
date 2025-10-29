@@ -23,11 +23,9 @@ Fazer [Sim | Não] x Continuar [Sim | Não]
 
 ### Matriz GUT ###
 
-Total_Problema =  Gravidade * Urgência * Tendência
-
-| Problemas | Gravidade | Urgência | Tendência | Total |
-|-----------|-----------|----------|-----------|-------|
-|           | [1-5]     | [1-5]    | [1-5]     |       |
+| Problemas | Gravidade | Urgência | Tendência | Total                              |
+|-----------|-----------|----------|-----------|------------------------------------|
+|           | [1-5]     | [1-5]    | [1-5]     | (Gravidade * Urgência * Tendência) |
 
 ## Como Tomar Decisões ##
 
