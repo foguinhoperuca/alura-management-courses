@@ -8,6 +8,8 @@ Alura's management courses.
 
 [LGPD: conhecendo e entendendo seus impactos](https://cursos.alura.com.br/course/lgpd-visao-impactos "lgpd")
 
+[Desig Organizacional: Enfrentando mudanças com métodos ágeis](https://cursos.alura.com.br/course/design-organizacional-enfrentando-mudancas-metodos-ageis "design_organizacional")
+
 # UX/Design #
 
 [UX Design: Conheça o universo da experiência em produtos digitais](https://cursos.alura.com.br/course/ux-design-conheca-universo-experiencia-produtos-digitais "ux-design-conheca-universo-experiencia-produtos-digitais")

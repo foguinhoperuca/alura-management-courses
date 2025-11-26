@@ -1,0 +1,3 @@
+[submodule "engenharia_software_principios_basicos/upstream"]
+	path = engenharia_software_principios_basicos/upstream
+	url = git@github.com:alura-cursos/projeto-CHURN.git
