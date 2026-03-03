@@ -33,3 +33,13 @@ Descubra técnicas eficazes de estudo, gestão do tempo e desenvolvimento pessoa
 [Formação da Alura](https://cursos.alura.com.br/formacao-comecando-em-inteligencia-artificial)
 
 Dê seus primeiros passos em Inteligência artificial, descubra o potencial da inteligência artificial generativa e entenda como usá-la em ambientes de negócios e produtividade no seu dia a dia.
+
+## Liderança Técnica e Tecnológica ##
+
+[Formação Alura](https://cursos.alura.com.br/formacao-lideranca-tecnica-e-tecnologica)
+
+Para desenvolver liderança técnica, mesmo sem perfil técnico, e tomar decisões mais seguras em contextos tecnológicos.
+
+[Ver, também, formação Tech Lead que possui 4/5 cursos em comum](https://cursos.alura.com.br/formacao-tech-lead)
+
+- [Profisão Tech Lead: Conhecendo a Liderança Técnica](https://cursos.alura.com.br/course/profissao-tech-lead-conhecendo-lideranca-tecnica "profissao-tech-lead-conhecendo-lideranca-tecnica")
