@@ -43,3 +43,4 @@ Para desenvolver liderança técnica, mesmo sem perfil técnico, e tomar decisõ
 [Ver, também, formação Tech Lead que possui 4/5 cursos em comum](https://cursos.alura.com.br/formacao-tech-lead)
 
 - [Profisão Tech Lead: Conhecendo a Liderança Técnica](https://cursos.alura.com.br/course/profissao-tech-lead-conhecendo-lideranca-tecnica "profissao-tech-lead-conhecendo-lideranca-tecnica")
+- [Tech Lead: construindo práticas e rotinas de gestão](https://cursos.alura.com.br/course/tech-lead-construindo-praticas-rotinas-gestao "https://cdn3.gnarususercontent.com.br/3420-rotinas-praticas/3420+-+Rotinas+e+pr%C3%A1ticas+de+gest%C3%A3o+para+lideran%C3%A7as+t%C3%A9cnicas+-+Slides.pdf")
