@@ -6,18 +6,21 @@ Alura's management courses.
 
 ## LGPD ##
 
-[LGPD: conhecendo e entendendo seus impactos](https://cursos.alura.com.br/course/lgpd-visao-impactos "lgpd")
-
-[Desig Organizacional: Enfrentando mudanças com métodos ágeis](https://cursos.alura.com.br/course/design-organizacional-enfrentando-mudancas-metodos-ageis "design_organizacional")
+- [LGPD: conhecendo e entendendo seus impactos](https://cursos.alura.com.br/course/lgpd-visao-impactos "lgpd")
+- [Desig Organizacional: Enfrentando mudanças com métodos ágeis](https://cursos.alura.com.br/course/design-organizacional-enfrentando-mudancas-metodos-ageis "design_organizacional")
 
 # UX/Design #
 
-[UX Design: Conheça o universo da experiência em produtos digitais](https://cursos.alura.com.br/course/ux-design-conheca-universo-experiencia-produtos-digitais "ux-design-conheca-universo-experiencia-produtos-digitais")
+- [UX Design: Conheça o universo da experiência em produtos digitais](https://cursos.alura.com.br/course/ux-design-conheca-universo-experiencia-produtos-digitais "ux-design-conheca-universo-experiencia-produtos-digitais")
 
 ## Inovation ##
 
 - [Tomada de Decisão: Pensar, Analisar e Agir](https://cursos.alura.com.br/course/tomada-decisao-pensar-analisar-agir "Instructor: Lunna Dias")
 - [Tomada de decisão: pensar, analisar e agir](https://cursos.alura.com.br/course/tomada-de-decisao-pensar-analisar-agir "Instructor: Tayná Carvalho")
+
+## Softskills & Carrer ##
+
+- [Softskills na era da IA: Como fortalecer metacompetências](https://cursos.alura.com.br/course/softskills-era-ia-fortalecer-metacompetencias/ "softskills-era-ia-fortalecer-metacompetencias")
 
 ## Aprendizagem ##
 
@@ -26,7 +29,6 @@ Alura's management courses.
 Descubra técnicas eficazes de estudo, gestão do tempo e desenvolvimento pessoal para potencializar sua carreira e alcançar crescimento contínuo.
 
 - [Aprendizagem: personalizadno sua rotina de estudos com ChatGPT](https://cursos.alura.com.br/course/aprendizagem-ia-personalizando-rotina-chatgpt "https://cdn3.gnarususercontent.com.br/3722-aprendizagem-ia-personalizando-rotina-chatgpt/Documentos%20para%20atividades/Slides-Alura-PDF-Aprendizagem%20com-IA%20.pdf")
-
 
 ## Começando em Inteligência Artifical ##
 
@@ -44,3 +46,4 @@ Para desenvolver liderança técnica, mesmo sem perfil técnico, e tomar decisõ
 
 - [Profisão Tech Lead: Conhecendo a Liderança Técnica](https://cursos.alura.com.br/course/profissao-tech-lead-conhecendo-lideranca-tecnica "profissao-tech-lead-conhecendo-lideranca-tecnica")
 - [Tech Lead: construindo práticas e rotinas de gestão](https://cursos.alura.com.br/course/tech-lead-construindo-praticas-rotinas-gestao "https://cdn3.gnarususercontent.com.br/3420-rotinas-praticas/3420+-+Rotinas+e+pr%C3%A1ticas+de+gest%C3%A3o+para+lideran%C3%A7as+t%C3%A9cnicas+-+Slides.pdf")
+- [Tech Lead: Comunicação Estratégica e Influência](https://cursos.alura.com.br/course/techlead-comunicacao-estrategica-influencia "techlead-comunicacao-estrategica-influencia")
