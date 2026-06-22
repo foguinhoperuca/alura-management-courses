@@ -1,5 +1,21 @@
 # Tech Lead: Comunicação Estratégica e Influência #
 
+Estrutura de uma narrativa técnica:
+- Contexto
+- Descrição do Problema
+- Riscos & Impactos
+- Alternativas & Soluções
+- Recomendação
+
+Evitar detalhamento desnecessário para que não torne a narrativa enfadonha e difícil de digerir. Por outro lado, evitar omitir informações cruciais, memórias de cálculos, etc, necessários a boa compreensão dando um contexto adequado para a tomada de decisão.
+O objetivo é, além de comunicar uma decisão (o quê será feito), entender toda a cadeia de pensamento/raciocínio (o por quê)
+
+Erros comuns:
+- Excesso de detalhes técnico;
+- Falta de contexto;
+- Opnião sem evidência;
+- Ausência de recomendação clara;
+
 ## Diagnóstico da Comunicação ##
 
 ### 1. Sinais de Falha Comunicacional ###
