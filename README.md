@@ -24,11 +24,15 @@ Alura's management courses.
 
 ## Aprendizagem ##
 
-[Formação na Alura](https://cursos.alura.com.br/formacao-aprendizagem)
+### [Formação na Alura](https://cursos.alura.com.br/formacao-aprendizagem) ###
 
 Descubra técnicas eficazes de estudo, gestão do tempo e desenvolvimento pessoal para potencializar sua carreira e alcançar crescimento contínuo.
 
 - [Aprendizagem: personalizadno sua rotina de estudos com ChatGPT](https://cursos.alura.com.br/course/aprendizagem-ia-personalizando-rotina-chatgpt "https://cdn3.gnarususercontent.com.br/3722-aprendizagem-ia-personalizando-rotina-chatgpt/Documentos%20para%20atividades/Slides-Alura-PDF-Aprendizagem%20com-IA%20.pdf")
+
+### Outros ###
+
+[Andragogia: Aprimore a educação de pessoas adultas](https://cursos.alura.com.br/course/andragogia-educacao-pessoas-adultas "https://cdn3.gnarususercontent.com.br/2536-andragogia/01/Alura-PDF-Slides-Andragogia-aprimore-a-educacao-de-pessoas-adultas.pdf")
 
 ## Começando em Inteligência Artifical ##
 
