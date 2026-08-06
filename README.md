@@ -17,6 +17,7 @@ Alura's management courses.
 
 - [Tomada de Decisão: Pensar, Analisar e Agir](https://cursos.alura.com.br/course/tomada-decisao-pensar-analisar-agir "Instructor: Lunna Dias")
 - [Tomada de decisão: pensar, analisar e agir](https://cursos.alura.com.br/course/tomada-de-decisao-pensar-analisar-agir "Instructor: Tayná Carvalho")
+- [Gestão de Produtos: Fundamentos para Product Builders](https://cursos.alura.com.br/course/gestao-produtos-fundamentos "gestao-produtos-fundamentos")
 
 ## Softskills & Carrer ##
 
@@ -32,7 +33,7 @@ Descubra técnicas eficazes de estudo, gestão do tempo e desenvolvimento pessoa
 
 ### Outros ###
 
-[Andragogia: Aprimore a educação de pessoas adultas](https://cursos.alura.com.br/course/andragogia-educacao-pessoas-adultas "https://cdn3.gnarususercontent.com.br/2536-andragogia/01/Alura-PDF-Slides-Andragogia-aprimore-a-educacao-de-pessoas-adultas.pdf")
+[Andragogia: Aprimore a educação de pessoas adultas](https://cursos.alura.com.br/course/andragogia-educacao-pessoas-adultas "andragogia-educacao-pessoas-adultas")
 
 ## Começando em Inteligência Artifical ##
 
