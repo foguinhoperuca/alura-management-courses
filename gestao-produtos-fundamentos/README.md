@@ -68,3 +68,38 @@ Problema: [COLE AQUI]
 
 Ideia de solução: [COLE AQUI]
 ```
+
+## Aula 03 - Para Quem Você Constrói ##
+
+- [Artigo Jobs to be done: o que é e qual abordagem utilizar?](https://pm3.com.br/blog/qual-metodologia-adotar-para-aplicar-jobs-to-be-done/)
+- [Artigo Synthetic Users: If, When, and How to Use AI-Generated “Research”](https://www.nngroup.com/articles/synthetic-users/)
+- [Ferramenta Persona Canvas](https://www.designabetterbusiness.tools/tools/persona-canvas)
+
+### Prompt: Estruturar persona e JTBD ###
+
+```
+Atue como uma pessoa especialista em pesquisa e comportamento de usuários. Vou apresentar um problema ou uma ideia de produto. Ajude-me a identificar quem realmente sente esse problema de forma forte o suficiente para buscar uma solução. Não crie personas fictícias baseadas apenas em idade, profissão ou características demográficas. Analise o usuário pelo seu contexto, comportamento, objetivo e intensidade do problema.
+
+Investigue:
+
+Quem enfrenta o problema com maior frequência.
+Quem sofre as maiores consequências.
+Em qual momento ou situação o problema aparece.
+O que desencadeia a necessidade de buscar uma solução.
+O que essa pessoa faz atualmente.
+Quais improvisos, ferramentas ou processos ela já utiliza.
+O que ela considera frustrante nas soluções atuais.
+O que faria essa pessoa mudar de comportamento.
+Quem provavelmente não é um bom usuário inicial.
+Segmente os possíveis usuários com base na intensidade do problema.
+
+Ao final:
+
+Liste os principais segmentos encontrados.
+Compare intensidade do problema, frequência e urgência.
+Recomende um segmento inicial.
+Explique por que começar por esse segmento.
+Descreva o usuário inicial pelo contexto e comportamento, não por uma persona genérica.
+Liste de 5 a 10 perguntas de entrevista para validar essas hipóteses sem induzir respostas.
+Problema: [COLE AQUI]
+```
